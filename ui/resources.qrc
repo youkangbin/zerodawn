@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/trail.frag</file>
+        <file>shaders/trail.vert</file>
+    </qresource>
+</RCC>

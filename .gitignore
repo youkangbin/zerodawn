@@ -39,3 +39,25 @@
 
 # debug information files
 *.dwo
+
+# Build folder
+build-*
+debug
+Debug
+build
+Release
+Release-*
+release
+
+#Folders to Ignore
+ignore-*
+
+#vs files
+.vscode
+.vs
+
+#log file
+*.log
+
+#config file
+*.ini
